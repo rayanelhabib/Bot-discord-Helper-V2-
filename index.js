@@ -1,5 +1,5 @@
 /**
- * Paul Dev Helper Bot
+ * Paul Prog's Helper Bot
  * Copyright (c) 2024 skz_rayan23 (rayanelhabib)
  * 
  * This project is created and maintained by skz_rayan23.

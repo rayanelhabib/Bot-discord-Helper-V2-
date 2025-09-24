@@ -1,5 +1,5 @@
 {
-  "name": "paul-dev-helper",
+  "name": "paul-progs-helper",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,11 @@
     "lint:fix": "eslint src/ --fix",
     "format": "prettier --write src/",
     "build": "echo \"No build step required for Node.js bot\"",
-    "docker:build": "docker build -t paul-dev-helper .",
+    "docker:build": "docker build -t paul-progs-helper .",
     "docker:run": "docker-compose up -d",
     "docker:stop": "docker-compose down"
   },
-  "keywords": ["discord", "bot", "moderation", "security", "verification", "voice", "paul-dev"],
+  "keywords": ["discord", "bot", "moderation", "security", "verification", "voice", "paul-progs"],
   "author": "skz_rayan23",
   "license": "MIT",
   "description": "A comprehensive Discord bot with advanced moderation, security, verification, and voice management features",

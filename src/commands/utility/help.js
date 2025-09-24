@@ -229,10 +229,10 @@ module.exports = {
     const serverPrefix = message.guild ? await getServerPrefix(message.guild.id) : '+';
 
     // --- Main Help Components ---
-    const titleText = new TextDisplayBuilder().setContent('# Paul Dev Helper Bot');
+    const titleText = new TextDisplayBuilder().setContent('# Paul Prog\'s Helper Bot');
 
     const descriptionText = new TextDisplayBuilder().setContent(
-      `> **Welcome to Paul Dev Helper!**\n\n` +
+      `> **Welcome to Paul Prog's Helper!**\n\n` +
       `A powerful Discord bot with **advanced moderation**, **verification systems**, **enhanced security features**, **real-time voice management**, **YouTube downloads**, **no-prefix quick commands**, and **comprehensive utility tools**.\n\n` +
       `**Quick Start:** Use the menu below to explore commands by category!\n` +
       `**Voice Commands:** Now with **live real-time data** instead of cached information!\n` +

@@ -1,4 +1,4 @@
-# 🤖 Paul Dev Helper Bot
+# 🤖 Paul Prog's Helper Bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)](https://nodejs.org/)
@@ -81,7 +81,7 @@ docker-compose up -d
 ## 📁 Project Structure
 
 ```
-paul-dev-helper/
+paul-progs-helper/
 ├── src/                    # Source code
 │   ├── commands/          # All bot commands
 │   ├── events/            # Discord event handlers
