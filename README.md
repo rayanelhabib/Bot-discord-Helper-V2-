@@ -4,6 +4,8 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/discord.js-v14-blue.svg)](https://discord.js.org/)
 
+> **Developed by [@rayanelhabib](https://github.com/rayanelhabib)** | **Support: [Discord Server](https://discord.gg/9h9DQac2HK)**
+
 A comprehensive Discord bot with advanced moderation, security, verification, and voice management features.
 
 ## ✨ Features
@@ -154,8 +156,8 @@ npm run format     # Format code with Prettier
 
 ## 🤝 Support
 
-- **Discord Server**: [Join our support server](https://discord.gg/EZqpBArDVU)
-- **Issues**: [GitHub Issues](https://github.com/rayanelhabib/Bot-discord-Helper-V2-/issues)
+- **Discord Server**: [Join our support server](https://discord.gg/9h9DQac2HK)
+- **Developer Profile**: [GitHub Profile](https://github.com/rayanelhabib)
 - **Documentation**: [Wiki](https://github.com/rayanelhabib/Bot-discord-Helper-V2-/wiki)
 
 ## 📄 License
@@ -165,8 +167,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **skz_rayan23** - Original Creator & Maintainer
-- GitHub: [@rayanelhabib](https://github.com/rayanelhabib)
-- Discord: skz_rayan23
+- **GitHub Profile**: [@rayanelhabib](https://github.com/rayanelhabib)
+- **Discord**: skz_rayan23
+- **Support Server**: [Join Discord](https://discord.gg/9h9DQac2HK)
 
 ### 🔒 Copyright Protection
 This project is created and maintained exclusively by **skz_rayan23**.
@@ -174,6 +177,9 @@ This project is created and maintained exclusively by **skz_rayan23**.
 - ✅ **Full Ownership**: I retain all rights to this project
 - ✅ **Attribution Required**: Any use must credit me as the original author
 - ✅ **No Removal**: My name and copyright cannot be removed
+
+### 🌟 Developed by
+**Rayan El Habib** - [GitHub Profile](https://github.com/rayanelhabib)
 
 ## 🙏 Acknowledgments
 
