@@ -1,3 +1,14 @@
+/**
+ * Paul Dev Helper Bot
+ * Copyright (c) 2024 skz_rayan23 (rayanelhabib)
+ * 
+ * This project is created and maintained by skz_rayan23.
+ * All rights reserved. Do not remove this copyright notice.
+ * 
+ * GitHub: https://github.com/rayanelhabib/Bot-discord-Helper-V2-
+ * Discord: skz_rayan23
+ */
+
 require('dotenv').config();
 const { Client, GatewayIntentBits, Collection, REST, Routes, ChannelType } = require('discord.js');
 const fs = require('fs');

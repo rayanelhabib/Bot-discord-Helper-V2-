@@ -164,9 +164,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**skz_rayan23**
+**skz_rayan23** - Original Creator & Maintainer
 - GitHub: [@rayanelhabib](https://github.com/rayanelhabib)
 - Discord: skz_rayan23
+
+### 🔒 Copyright Protection
+This project is created and maintained exclusively by **skz_rayan23**.
+- ✅ **Original Work**: This is my original creation
+- ✅ **Full Ownership**: I retain all rights to this project
+- ✅ **Attribution Required**: Any use must credit me as the original author
+- ✅ **No Removal**: My name and copyright cannot be removed
 
 ## 🙏 Acknowledgments
 
