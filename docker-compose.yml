@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  paul-dev-helper:
+    build: .
+    container_name: paul-dev-helper-bot
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - DISCORD_TOKEN=${DISCORD_TOKEN}
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    networks:
+      - bot-network
+
+networks:
+  bot-network:
+    driver: bridge
+
+volumes:
+  bot-data:
+  bot-logs:
