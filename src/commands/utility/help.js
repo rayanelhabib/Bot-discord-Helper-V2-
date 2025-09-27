@@ -223,7 +223,7 @@ module.exports = {
   description: 'Show interactive bot help menu with categories',
   async execute(message, args, client, db) {
     const totalLines = await countLines();
-    const serverLink = 'https://discord.gg/EZqpBArDVU'; // Replace with your support server
+    const serverLink = 'https://discord.gg/NKBk9SaSUC'; // Replace with your support server
     
     // Get server-specific prefix
     const serverPrefix = message.guild ? await getServerPrefix(message.guild.id) : '+';
@@ -275,7 +275,7 @@ module.exports = {
     const inviteButton = new ButtonBuilder()
       .setLabel('Paul Dev DashBoard')
       .setStyle(ButtonStyle.Link)
-      .setURL('https://pauldev.kozow.com/');
+      .setURL('https://discord.gg/NKBk9SaSUC');
 
     const separator = new SeparatorBuilder();
     const buttonActionRow = new ActionRowBuilder().addComponents(supportButton, inviteButton);
